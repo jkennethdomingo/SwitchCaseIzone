@@ -1,8 +1,12 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace SwitchCase
+namespace SwitchcaseIzone
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -24,7 +28,7 @@ namespace SwitchCase
             Console.WriteLine(" ***       ***                    **      [10] - Kim Chaewon        **    ***            ****     ***  ***             ");
             Console.WriteLine(" ***      ***                      **     [11] - Kim Minju         **     ***             ****    ***  ***             ");
             Console.WriteLine(" ***     ***                       **     [12] - Lee Chaeyeon      **     ***              ****   ***  ***             ");
-            Console.WriteLine(" ***    ***                          **                           **      ***               ****  ***  ***             ");            
+            Console.WriteLine(" ***    ***                          **                           **      ***               ****  ***  ***             ");
             Console.WriteLine(" ***   *******************             ***                     ***        ***                **** ***  ****************");
             Console.WriteLine(" ***  ********************                ********************            ***                 *******  ****************");
 
